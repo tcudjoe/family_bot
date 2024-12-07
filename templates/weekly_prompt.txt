@@ -1,0 +1,16 @@
+Hi {name}! Let’s plan the week ahead. Please reply with your events in this format:
+
+Day: [Day of the Week]
+From: [Start Time]
+To: [End Time]
+Location: [Location]
+Description: [Event Details]
+
+Example:
+Day: Monday
+From: 10:00 AM
+To: 12:00 PM
+Location: Office
+Description: Team meeting
+
+Reply for each day you have an event this week!

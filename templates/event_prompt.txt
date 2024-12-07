@@ -1,0 +1,13 @@
+Hi {name}, do you have any special events coming up? These could be birthdays, anniversaries, or important appointments.
+
+Please reply in this format:
+Date: [MM/DD/YYYY]
+Time: [HH:MM AM/PM]
+Location: [Event Location]
+Description: [Event Details]
+
+Example:
+Date: 12/25/2023
+Time: 6:00 PM
+Location: Home
+Description: Christmas Dinner
