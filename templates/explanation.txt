@@ -1,0 +1,27 @@
+Hi {name}! I'm happy to be your helper in all things agenda!
+
+My creator decided to set me up because of a need of communication between the family.
+This way, you will be reminded of everyone's events, outings, trips and more on a daily and weekly basis
+
+Isn't that great!? I'm taking some weight of your shoulder xD
+
+This is what I can do so far:
+1. Collect and organize your weekly events.
+2. Send reminders about special events (e.g., birthdays, anniversaries, trips).
+3. Provide daily updates on planned events for the day.
+
+To add events, use this format:
+Day: [Day of the Week]
+From: [Start Time]
+To: [End Time]
+Location: [Location]
+Description: [Event Details]
+
+For example:
+Day: Monday
+From: 10:00 AM
+To: 12:00 PM
+Location: Office
+Description: Team Meeting
+
+Let me know when you're ready to add your events!

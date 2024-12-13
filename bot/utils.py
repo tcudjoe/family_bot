@@ -8,3 +8,5 @@ def load_template(template_name, **kwargs):
     with open(template_path, "r") as file:
         content = file.read()
     return content.format(**kwargs)
+
+ 
